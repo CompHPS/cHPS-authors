@@ -4,6 +4,6 @@ This repository exists to describe best practices for linking name authority fil
 
 ## Goals
 
-## Standards
+## Standards / Best Practices
 
-## API
+## API Specification
